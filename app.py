@@ -45,7 +45,7 @@ st.divider()
 
 # texte
 st.write("""
-ienvenue sur cette application de prédiction du risque d'abandon scolaire. 
+Bienvenue sur cette application de prédiction du risque d'abandon scolaire. 
 
 Cette application estime la probabilité d’abandon d'un(e) étudiant(e) en fonction des informations fournies.  
 
